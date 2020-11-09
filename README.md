@@ -10,5 +10,6 @@ Clone this repo open a terminal then follow below steps
 git clone https://github.com/indra8981/todo-app-backend
 cd todo-app-backend
 npm install
-npm start sever.js
+npm start
 ```
+2) To view the application go to localhost:5000
